@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-07-12T22:30:38.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XoT_SdB_901rJknx979I" version="24.6.5" type="github">
+  <diagram name="Page-1" id="hmiNFq13a2drrHhc0E6c">
+    <mxGraphModel dx="1032" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="150" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="660" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-6" value="Gérer et configurer les serveurs DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-7" value="Système" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-8" value="Lancer des tests de mesure de performance des serveurs DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-9" value="Surveiller l&#39;état des serveurs DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-10" value="Détecter les attaques DNS&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-11" value="Recevoir des alertes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-12" value="S&#39;authentifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="180" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-13" value="Envoyer des requêtes DNS pour accéder aux services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-14" value="Recevoir les réponses DNS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
