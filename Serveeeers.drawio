@@ -5,13 +5,13 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="4Yu0JL-Y8x3OvqKyGdus-16" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="120" width="90" height="90" as="geometry" />
+          <mxGeometry x="70" y="130" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4Yu0JL-Y8x3OvqKyGdus-17" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="90" height="90" as="geometry" />
+          <mxGeometry x="60" y="270" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4Yu0JL-Y8x3OvqKyGdus-18" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="90" height="90" as="geometry" />
+          <mxGeometry x="60" y="420" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4Yu0JL-Y8x3OvqKyGdus-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.nlnetlabs.nl/content/images/size/w600/2022/09/Unbound_FC.png;" vertex="1" parent="1">
           <mxGeometry x="703.74" y="30" width="157.9" height="60" as="geometry" />
