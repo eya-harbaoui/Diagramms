@@ -1,125 +1,125 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="UqSJ1tIcwywqDu3bp6jN">
-    <mxGraphModel dx="984" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-1" value="&lt;b&gt;Plateforme DNS hétérogène&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="403.5" y="290" width="180" height="70" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Architecture DNS hétérogène&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="300" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-2" value="&lt;b&gt;Interface web pour la mesure de performance&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="183" y="176" width="180" height="70" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Interface web pour la mesure de performance&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-4" value="&lt;b&gt;Système de surveillance en temps réel&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="577.5" y="176" width="180" height="70" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Système de surveillance en temps réel&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="170" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-5" value="&lt;b&gt;Module d&#39;intelligence artificielle&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="403.5" y="420" width="180" height="70" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Module d&#39;intelligence artificielle&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="430" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.108;exitY=1.052;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="283.5" y="325" as="sourcePoint" />
-            <mxPoint x="403.5" y="324.7" as="targetPoint" />
+            <mxPoint x="350.5" y="335" as="sourcePoint" />
+            <mxPoint x="470.5" y="334.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583.5" y="324.7" as="sourcePoint" />
-            <mxPoint x="723.5" y="325" as="targetPoint" />
+            <mxPoint x="650.5" y="334.7" as="sourcePoint" />
+            <mxPoint x="790.5" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Requêtes DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="293" width="130" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Requêtes DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347" y="303" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Réponses DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="583.5" y="293" width="130" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Réponses DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="303" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="43" y="215" as="sourcePoint" />
-            <mxPoint x="182" y="214.70000000000005" as="targetPoint" />
+            <mxPoint x="110" y="209" as="sourcePoint" />
+            <mxPoint x="249" y="208.70000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Scénario de test pour un serveur DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="34" y="182" width="150" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Scénario de test pour un serveur DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101" y="176" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Résultats de test&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="344" y="182" width="140" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Résultats de test&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="176" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.844;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Gbn4mrA4kxASusW9BIGw-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="363" y="213.29999999999995" as="sourcePoint" />
-            <mxPoint x="467" y="216" as="targetPoint" />
+            <mxPoint x="430" y="207.29999999999995" as="sourcePoint" />
+            <mxPoint x="534" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-14" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Trafic DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="188" width="150" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Trafic DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527" y="182" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="497.5" y="211" as="sourcePoint" />
-            <mxPoint x="577.5" y="210.65999999999997" as="targetPoint" />
+            <mxPoint x="564.5" y="205" as="sourcePoint" />
+            <mxPoint x="644.5" y="204.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="757.5" y="210.88" as="sourcePoint" />
-            <mxPoint x="899.5" y="210.57999999999993" as="targetPoint" />
+            <mxPoint x="824.5" y="204.88" as="sourcePoint" />
+            <mxPoint x="966.5" y="204.57999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;a style=&quot;-webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; text-align: left; background-color: rgb(255, 255, 255);&quot; data-ved=&quot;2ahUKEwj3qNKN7tuHAxVE0gIHHU0WC2MQFnoECAMQAw&quot; href=&quot;https://fr.wikipedia.org/wiki/%C3%89#:~:text=Avec%20la%20disposition%20de%20clavier%20fran%C3%A7ais%2C%20sous%20Windows%20%3A,la%20touche%20Alt%20est%20rel%C3%A2ch%C3%A9e.&quot;&gt;&lt;h3 style=&quot;font-weight: 400; margin: 18px 0px 0px; padding: 5px 0px 0px; line-height: 1.3; display: inline-block;&quot; class=&quot;LC20lb MBeuO DKV0Md&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 13px;&quot; face=&quot;Helvetica&quot;&gt;É&lt;/font&gt;&lt;/h3&gt;&lt;/a&gt;tats des serveurs DNS /Tableaux de bord / Alertes&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;en temps réel&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="759.5" y="165" width="220" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;a style=&quot;-webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; text-align: left; background-color: rgb(255, 255, 255);&quot; data-ved=&quot;2ahUKEwj3qNKN7tuHAxVE0gIHHU0WC2MQFnoECAMQAw&quot; href=&quot;https://fr.wikipedia.org/wiki/%C3%89#:~:text=Avec%20la%20disposition%20de%20clavier%20fran%C3%A7ais%2C%20sous%20Windows%20%3A,la%20touche%20Alt%20est%20rel%C3%A2ch%C3%A9e.&quot;&gt;&lt;h3 style=&quot;font-weight: 400; margin: 18px 0px 0px; padding: 5px 0px 0px; line-height: 1.3; display: inline-block;&quot; class=&quot;LC20lb MBeuO DKV0Md&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;É&lt;/font&gt;&lt;/h3&gt;&lt;/a&gt;tats des serveurs DNS /Tableaux de bord / Alertes&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;en temps réel&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="826.5" y="155" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="455" as="sourcePoint" />
-            <mxPoint x="399" y="454.5799999999999" as="targetPoint" />
+            <mxPoint x="377" y="465" as="sourcePoint" />
+            <mxPoint x="466" y="464.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-19" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Trafic DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="286" y="428" width="150" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Trafic DNS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="439" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Détection de trafic malveillant&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="428" width="268" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Détection de trafic malveillant&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="617" y="438" width="268" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.816;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Gbn4mrA4kxASusW9BIGw-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="584" y="454.93" as="sourcePoint" />
-            <mxPoint x="726" y="454.62999999999994" as="targetPoint" />
+            <mxPoint x="651" y="464.93" as="sourcePoint" />
+            <mxPoint x="793" y="464.62999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-2" target="Gbn4mrA4kxASusW9BIGw-1">
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-2" target="Gbn4mrA4kxASusW9BIGw-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240.20000000000005" y="297.2" as="sourcePoint" />
-            <mxPoint x="240.00000000000023" y="240.00000000000006" as="targetPoint" />
+            <mxPoint x="307.20000000000005" y="307.2" as="sourcePoint" />
+            <mxPoint x="307.0000000000002" y="250.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-4">
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="183" as="sourcePoint" />
-            <mxPoint x="520" y="290" as="targetPoint" />
+            <mxPoint x="747" y="193" as="sourcePoint" />
+            <mxPoint x="587" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-5" target="Gbn4mrA4kxASusW9BIGw-1">
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="Gbn4mrA4kxASusW9BIGw-5" target="Gbn4mrA4kxASusW9BIGw-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="494" y="420" as="sourcePoint" />
-            <mxPoint x="496.5" y="360" as="targetPoint" />
+            <mxPoint x="561" y="430" as="sourcePoint" />
+            <mxPoint x="563.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-35" value="&lt;b&gt;Surveiller en continu&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="246" width="216" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Surveiller en continu&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="246" width="216" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-36" value="&lt;b&gt;Renforcer la sécurité&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="451" y="380" width="216" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Renforcer la sécurité&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527" y="390" width="216" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-39" value="&lt;b&gt;Tester les performances&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="289" y="246" width="170" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tester les performances&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="347" y="245" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gbn4mrA4kxASusW9BIGw-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="100" width="960" height="430" as="geometry" />
+          <mxGeometry x="98" y="86" width="960" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Gbn4mrA4kxASusW9BIGw-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Système de mesure de performance et de surveillance en temps réel avec l‘intégration de l‘IA pour la sécurité DNS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198" y="110" width="610" height="30" as="geometry" />
+        <mxCell id="Gbn4mrA4kxASusW9BIGw-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Système de mesure de performance et de surveillance en temps réel avec l‘intégration de l‘IA pour la sécurité DNS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="100" width="610" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
