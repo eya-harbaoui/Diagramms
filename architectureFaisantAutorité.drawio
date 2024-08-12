@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="6132" dy="3803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5840" dy="3656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -253,7 +253,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uYwMbr8Fpf-VhEwFjulZ-49" value="&lt;h3&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;Architecture des serveurs DNS faisant autorité&lt;/font&gt;&lt;/h3&gt;&lt;pre&gt;&lt;div class=&quot;dark bg-gray-950 rounded-md border-[0.5px] border-token-border-medium&quot;&gt;&lt;div class=&quot;flex items-center relative text-token-text-secondary bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uYwMbr8Fpf-VhEwFjulZ-49" value="&lt;h3&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Architecture des serveurs DNS faisant autorité&lt;/font&gt;&lt;/h3&gt;&lt;pre&gt;&lt;div class=&quot;dark bg-gray-950 rounded-md border-[0.5px] border-token-border-medium&quot;&gt;&lt;div class=&quot;flex items-center relative text-token-text-secondary bg-token-main-surface-secondary px-4 py-2 text-xs font-sans justify-between rounded-t-md&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1482.45" y="-1290" width="804.89" height="30" as="geometry" />
         </mxCell>
       </root>
