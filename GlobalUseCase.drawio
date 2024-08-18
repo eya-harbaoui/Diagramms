@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-2" value="Utilisateurs finaux" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="435" width="40" height="70" as="geometry" />
+          <mxGeometry x="-160" y="447" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
           <mxGeometry x="-60" y="40" width="730" height="500" as="geometry" />
@@ -13,23 +13,23 @@
         <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Système&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="267.5" y="50" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Lancer des tests de mesure de performance des serveurs DNS&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="130" width="260" height="60" as="geometry" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Lancer des tests de mesure de performance des serveurs DNS&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6C8EBF;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="170" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Surveiller l&#39;état des serveurs DNS&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="210" width="260" height="60" as="geometry" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-9" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Surveiller l&#39;état des serveurs DNS&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="270" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Détecter un trafic DNS malveillant&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="290" width="260" height="60" as="geometry" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Détecter un trafic DNS malveillant&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="350" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Recevoir des alertes&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="300" y="370" width="187" height="60" as="geometry" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Recevoir des alertes&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
+          <mxGeometry x="369" y="390" width="261" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;S&#39;authentifier à l&#39;interface web de mesure de performance&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="369" y="130" width="256.5" height="60" as="geometry" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-12" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;S&#39;authentifier&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;l&#39;interface web de mesure de performance&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
+          <mxGeometry x="369" y="200" width="271" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Utiliser le service de résolution pendant la navigation Internet&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="440" width="240" height="60" as="geometry" />
+        <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Utiliser le service de résolution pendant la navigation Internet&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6C8EBF;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="450" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-36" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PDqdzu1Ucp-oA0ykx4EQ-8" edge="1" target="PDqdzu1Ucp-oA0ykx4EQ-12">
           <mxGeometry x="0.1" y="-10" relative="1" as="geometry">
@@ -58,20 +58,21 @@
         </mxCell>
         <mxCell id="PDqdzu1Ucp-oA0ykx4EQ-44" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130.00000000000273" y="472.38" as="sourcePoint" />
-            <mxPoint x="-20" y="472.38" as="targetPoint" />
+            <mxPoint x="-140.00000000000273" y="484.46999999999997" as="sourcePoint" />
+            <mxPoint x="-30" y="484.46999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Kle1nJeSt3H_z6FKow6-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fad9d5;strokeColor=#000000;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" parent="1" target="PDqdzu1Ucp-oA0ykx4EQ-11" edge="1">
+        <mxCell id="6Kle1nJeSt3H_z6FKow6-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fad9d5;strokeColor=#000000;edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=1;" parent="1" target="PDqdzu1Ucp-oA0ykx4EQ-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="180" as="sourcePoint" />
-            <mxPoint x="-30" y="325" as="targetPoint" />
+            <mxPoint x="-150" y="180" as="sourcePoint" />
+            <mxPoint x="289.99999999999864" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-110" y="400" />
+              <mxPoint x="-150" y="420" />
+              <mxPoint x="-130" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Kle1nJeSt3H_z6FKow6-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.351;exitY=0.006;exitDx=0;exitDy=0;entryX=0.905;entryY=0.82;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF8000;entryPerimeter=0;exitPerimeter=0;" parent="1" source="PDqdzu1Ucp-oA0ykx4EQ-11" edge="1">
+        <mxCell id="6Kle1nJeSt3H_z6FKow6-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.351;exitY=0.006;exitDx=0;exitDy=0;entryX=0.957;entryY=0.75;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF8000;entryPerimeter=0;exitPerimeter=0;" parent="1" source="PDqdzu1Ucp-oA0ykx4EQ-11" target="PDqdzu1Ucp-oA0ykx4EQ-9" edge="1">
           <mxGeometry x="-0.1716" y="2" relative="1" as="geometry">
             <mxPoint x="342.1445203718822" y="349.99788154810506" as="sourcePoint" />
             <mxPoint x="220" y="240.42999999999995" as="targetPoint" />
@@ -87,9 +88,25 @@
         </mxCell>
         <object label="Administrateur&amp;nbsp;&lt;div&gt;Système&lt;/div&gt;" id="PDqdzu1Ucp-oA0ykx4EQ-21">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-            <mxGeometry x="-150" y="140" width="40" height="70" as="geometry" />
+            <mxGeometry x="-170" y="140" width="40" height="70" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="DlcLg0GIBYbs-mX_OXK4-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Gérer les serveurs DNS dans l&#39;interface web de mesure de performance&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="90" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DlcLg0GIBYbs-mX_OXK4-3" value="" style="endArrow=none;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#000000;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDqdzu1Ucp-oA0ykx4EQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="100" as="sourcePoint" />
+            <mxPoint x="-40" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlcLg0GIBYbs-mX_OXK4-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1.002;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DlcLg0GIBYbs-mX_OXK4-2" target="PDqdzu1Ucp-oA0ykx4EQ-12">
+          <mxGeometry x="0.1" y="-10" relative="1" as="geometry">
+            <mxPoint x="240" y="130" as="sourcePoint" />
+            <mxPoint x="379" y="170" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
