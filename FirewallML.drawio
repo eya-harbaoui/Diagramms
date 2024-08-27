@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="j3XVRCFXy4x72KjSzx_k">
-    <mxGraphModel>
+    <mxGraphModel dx="808" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nZareZHbp_UTStWYfvvQ-2" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="290" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-3" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
+          <mxGeometry x="391.63" y="270" width="76.5" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-5" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="339.23" as="sourcePoint" />
+            <mxPoint x="380" y="339.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-8" value="Requête DNS : www.example.xyz" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-9" value="Serveur DNS avec Firewall basé sur le machine learning" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319.89" y="370" width="219.99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428" y="270" as="sourcePoint" />
+            <mxPoint x="428" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-12" value="Extraction des caractéristiques" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="226" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-13" value="Prétraitement des données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530.45" y="180" width="179.11" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-14" value="Modèle Machine learning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="179.11" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="499.11" y="130" width="30.89" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="223" as="sourcePoint" />
+            <mxPoint x="619" y="203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="180" as="sourcePoint" />
+            <mxPoint x="619" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-19" value="Malveillant/Non malveillant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="549.55" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.62" y="140" as="sourcePoint" />
+            <mxPoint x="619.62" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-24" value="Analyse de la requête" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364.88" y="175" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="320" as="sourcePoint" />
+            <mxPoint x="170" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nZareZHbp_UTStWYfvvQ-26" value="Réponse (&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Ok&amp;nbsp;&lt;/font&gt;&lt;/b&gt;/&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;Block&lt;/font&gt;&lt;/b&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
