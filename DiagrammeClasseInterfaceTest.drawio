@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xHfmUSyRa2YHQ3VGaJNl-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Serveur_DNS&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- id : int&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- type: String&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- machine virtuelle: Machine_Virtuelle&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;+ gérer_État()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&amp;nbsp;+ configurer()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" parent="1" vertex="1">
-          <mxGeometry x="348.75" y="260" width="212.5" height="120" as="geometry" />
+          <mxGeometry x="305" y="281" width="212.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="anr6KwAPsmIqxZDyUPWU-7" value="" style="endArrow=none;html=1;endSize=12;startArrow=none;startSize=14;startFill=0;align=left;verticalAlign=bottom;rounded=0;entryX=1.016;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;jumpStyle=sharp;" edge="1" parent="1" target="xHfmUSyRa2YHQ3VGaJNl-1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
@@ -74,7 +74,7 @@
           <mxGeometry x="523" y="108" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="anr6KwAPsmIqxZDyUPWU-22" value="1..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="501" y="122" width="40" height="30" as="geometry" />
+          <mxGeometry x="500" y="123" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="anr6KwAPsmIqxZDyUPWU-23" value="1..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="567" y="122" width="40" height="30" as="geometry" />
